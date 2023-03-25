@@ -12,6 +12,8 @@ Status: booting - notboot
 
 recovery-BV7200-A12-2023MMDD-hhhh.img => Working??
 
+For anyone know about devices updating A10 to A12 so OEMs put recovery.img in the \vendor\etc and need delete that file to have TWRP permanently.
+
 ------------------------------------
 Credit: tester for [Mirek63 - 4pda](https://4pda.to/forum/index.php?showuser=6688231)
 
