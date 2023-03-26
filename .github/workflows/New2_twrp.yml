@@ -92,7 +92,7 @@ jobs:
       env:
        GITHUB_TOKEN: ${{ secrets.TEST }}
       with:
-       tag_name: TWRP-Blackview_BV7200
-       name: TWRP37x_12
+       tag_name: TWRP-Blackview_BV7200-A12
+       name: TWRP37x_12-2
        files: | 
          twrp/out/target/product/BV7200/*recovery*.img
