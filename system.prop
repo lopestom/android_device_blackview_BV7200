@@ -1,28 +1,9 @@
-# Default properties
-ro.build.custom_version=BV7200_NEU_TE888_V1.0_20221017V02
-#
-ro.hardware=mt6768
-ro.boot.hardware=mt6768
-ro.sf.lcd_density=320
 ro.vendor.mediatek.platform=MT6768
 ro.mtk_platform=MT6768
-init.userspace_reboot.is_supported=true
-ro.hardware.egl=meow
-ro.vendor.mtk_f2fs_enable=0
-ro.vendor.mtk_emmc_support=1
-#
-ro.boot.avb_version=1.1
-ro.boot.vbmeta.avb_version=1.1
-# Recovery specific properties
-ro.secure=0
-ro.adb.secure=0
-ro.debuggable=1
-persist.sys.usb.config=mtp,adb
-persist.service.adb.enable=1
-persist.service.debuggable=1
-ro.treble.enabled=true
-persist.sys.isUsbOtgEnabled=true
+
+
+
+ro.sys.usb.bicr=no
+ro.sys.usb.charging.only=yes
 ro.sys.usb.mtp.whql.enable=0
 ro.sys.usb.storage.type=mtp
-sys.usb.ffs.aio_compat=true
-sys.usb.controller=musb-hdrc
