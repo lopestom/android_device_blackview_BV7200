@@ -23,6 +23,9 @@ Credit: tester for [Mirek63 - 4pda](https://4pda.to/forum/index.php?showuser=668
   
 ![Initial Menu](https://github.com/lopestom/android_device_blackview_BV7200/releases/download/TWRP-Blackview_BV7200-A12/IMG_20230401_210438090.jpg) ![Format Data](https://github.com/lopestom/android_device_blackview_BV7200/releases/download/TWRP-Blackview_BV7200-A12/IMG_20230401_210546372.jpg)
 ![Formatting Data](https://github.com/lopestom/android_device_blackview_BV7200/releases/download/TWRP-Blackview_BV7200-A12/IMG_20230401_210603084.jpg) ![Formatting Data 2](https://github.com/lopestom/android_device_blackview_BV7200/releases/download/TWRP-Blackview_BV7200-A12/IMG_20230401_210703023.jpg)
+
+![TWRP Menu-Bakup](https://github.com/lopestom/android_device_blackview_BV7200/releases/download/TWRP-Blackview_BV7200-A12/Screenshot_2023-04-08-22-26-44.png) 
+![TWRP Bakup-Advanced](https://github.com/lopestom/android_device_blackview_BV7200/releases/download/TWRP-Blackview_BV7200-A12/Screenshot_2023-04-08-22-28-16.png)
 </p>
 </details>
 
